@@ -12,3 +12,8 @@ Aumenta la capacidad funcional, útil para actividades diarias.
 Comienza con un calentamiento de 5-10 minutos, realizando ejercicios cardiovasculares o de movilidad articular.
 Realiza un entrenamiento de alta intensidad que combine ejercicios como sentadillas, flexiones, levantamientos de pesas, saltos y carreras, siguiendo el formato de Workouts of the Day (WOD).
 Termina con un enfriamiento, incluyendo estiramientos para prevenir lesiones y mejorar la flexibilidad.
+
+## Consejos
+Mantén una postura adecuada durante todos los ejercicios para evitar lesiones.
+Comienza con una carga ligera y aumenta gradualmente la intensidad a medida que mejoras tu forma física.
+Practica CrossFit con regularidad para aumentar tu fuerza y resistencia, pero asegúrate de darle a tu cuerpo tiempo suficiente para recuperarse.
