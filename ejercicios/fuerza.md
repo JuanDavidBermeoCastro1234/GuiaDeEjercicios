@@ -13,3 +13,7 @@ Comienza con un calentamiento de 5-10 minutos (puede incluir estiramientos diná
 Realiza ejercicios de fuerza (pesas, máquinas, ejercicios con el peso corporal) durante 30-45 minutos, enfocándote en distintos grupos musculares.
 Termina con un enfriamiento y estiramientos para evitar rigidez muscular.
 
+## Consejos
+Utiliza un peso adecuado, que te permita realizar entre 8-12 repeticiones por serie.
+Aumenta progresivamente la carga a medida que vayas ganando fuerza.
+No olvides descansar entre series (30-90 segundos, dependiendo del objetivo).
