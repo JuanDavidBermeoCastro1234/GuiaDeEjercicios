@@ -12,3 +12,8 @@ Fortalece los músculos y mejora la postura.
 Comienza con una breve sesión de respiración profunda para calmar la mente.
 Realiza una serie de posturas (asanas) que trabajen todo el cuerpo, manteniendo cada postura de 20 a 30 segundos, según tu nivel de habilidad.
 Termina con una relajación, como la postura de Savasana, para liberar la tensión y mejorar la concentración.
+
+## Consejos
+Escucha a tu cuerpo y evita forzar las posturas más allá de lo cómodo.
+Mantén una respiración profunda y constante a lo largo de la práctica.
+Practica yoga con regularidad para ver mejoras en flexibilidad, fuerza y calma mental.
